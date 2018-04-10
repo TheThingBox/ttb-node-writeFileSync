@@ -1,0 +1,25 @@
+{
+  "name": "ttb-node-writeFileSync",
+  "version": "1.0.0",
+  "description": "A Node-RED node made for TheThingBox and TimeSquAir.",
+  "node-red": {
+    "nodes": {
+      "ttb-node-writeFileSync": "50-file.js"
+    }
+  },
+  "dependencies": {
+    "fs-extra": "5.0.0"
+  },
+  "private": true,
+  "keywords": [
+    "TheThingBox",
+    "file",
+    "Node-RED"
+  ],
+  "author": {
+    "name": "thethingbox",
+    "email": "thethingbox@gmail.com",
+    "url": "http://thethingbox.io/"
+  },
+  "license": "WTFPL"
+}
